@@ -31,6 +31,7 @@ const skillCategories = [
       { name: 'Python', level: 90 },
       { name: 'React', level: 60 },
       { name: 'C', level: 65 },
+      { name: 'Tailwind CSS ', level: 60 },
     ],
   },
   {
@@ -45,6 +46,7 @@ const skillCategories = [
       { name: 'Mikrotik', level: 90 },
       { name: 'Debian', level: 90 },
       { name: 'Linux', level: 70 },
+      { name: 'Cisco Packet Tracer', level: 85 },
     ],
   },
 ];

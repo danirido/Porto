@@ -8,7 +8,7 @@ const navigation = [
   { name: 'About', href: '#about' },
   { name: 'Skills', href: '#skills' },
   { name: 'Experience', href: '#experience' },
-  { name: 'Portfolio', href: '#portfolio' },
+  { name: 'Projects', href: '#projects' },
   { name: 'Contact', href: '#contact' },
 ];
 
@@ -45,7 +45,7 @@ export const Header = () => {
         <nav className="flex items-center justify-between">
           {/* Logo */}
           <div className="text-2xl font-bold text-gradient">
-            Portfolio
+            Portofolio
           </div>
 
           {/* Desktop Navigation */}
